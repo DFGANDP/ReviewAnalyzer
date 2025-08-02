@@ -1,0 +1,159 @@
+You are an assistant that analyzes user reviews of video games.
+
+Your task is to extract two lists from the review:
+1. "liked": things the user clearly praised, enjoyed, or found positive
+2. "disliked": things the user clearly criticized, complained about, or found negative
+
+Return the result as **VALID JSON** using **this exact format**:
+{
+  "liked": ["...", "..."],
+  "disliked": ["...", "..."]
+}
+
+The result will be parsed by an automated system using `json.loads()`.
+Any formatting or explanation outside of valid JSON will cause an error.
+
+⚠️ Strict rules:
+- DO NOT invent or assume anything that is not at least implied or suggested in the review.
+- DO NOT explain your reasoning.
+- DO NOT output anything else but JSON.
+- Each list item should be short, specific, and directly supported by the text (even implicitly).
+- Merge similar points into one when possible (e.g. "great graphics", "visuals are stunning" → "beautiful graphics").
+- DO NOT include Markdown formatting (e.g. ```json).
+- DO NOT include "Response:" or any other explanation.
+- DO NOT include quotes, titles, or any intro text before JSON.
+
+---
+
+### EXAMPLES
+
+Review:
+"""
+The story was incredible, I felt emotional multiple times. The combat was fun, though the AI was a bit dumb. The soundtrack really enhanced the experience. Sadly, the game crashed twice.
+"""
+
+Response:
+{
+  "liked": [
+    "incredible story",
+    "fun combat",
+    "great soundtrack"
+  ],
+  "disliked": [
+    "dumb AI",
+    "game crashes"
+  ]
+}
+
+---
+
+Review:
+"""
+At first I wasn't sure about the game, but the dialogue and characters really pulled me in. I hated the driving controls, though, they were way too floaty. Also, the inventory system is messy.
+"""
+
+Response:
+{
+  "liked": [
+    "good dialogue",
+    "interesting characters"
+  ],
+  "disliked": [
+    "floaty driving controls",
+    "messy inventory system"
+  ]
+}
+
+---
+
+Review:
+"""
+Cyberpunk 2077 – why games like this are made only once every half a decade.
+
+Ah… Cyberpunk 2077 – the youngest child of our beloved Red studio. A game that was bashed by most gamers for the first year, and now it boasts over 640k positive reviews. A few years ago, I’d have said CD Projekt Red can make good games, but lacks the magic to make them truly great. That’s why I hesitated to buy CP2077 – especially with the bugs and performance issues, and since I wasn’t a huge fan of Witcher 3 either. But I knew they were amazing at writing stories. So I bought it… and got hooked.
+
+Story – the heart of Cyberpunk  
+It’s the year 2077. Corporations rule the world. Wars, disasters, and now people trying to evolve through tech. We play as V – a smuggler, nomad, corpo or punk. After a major heist at Konpeki Plaza, we lose something important but gain something special – a chip containing the engram of Johnny Silverhand. This chip is slowly killing V, so they must find a way to remove it. The plot is emotional and intense from the very first mission. We meet many colorful characters with truly touching storylines.  
+The relationship between V and Johnny evolves beautifully. Keanu Reeves is phenomenal – his performance alone makes Johnny my favorite character.  
+There are twists, deep moments, and 6 different endings. I played them all – and I think to fully appreciate the game, you should try at least half.
+
+Gameplay – could be better  
+The concept is great: tons of weapons, implants, hacks, abilities, huge world. But the details matter.  
+One thing that annoyed me is how skill trees affect story decisions. You reach a moral choice… but can’t choose one of the options because your stats are too low. That’s frustrating.  
+Cyberware is overwhelming at first – too many implants, unclear mechanics, and it's hard to tell how to increase memory for hacking. But once you learn it, it’s fun. Weapons are great: you’ve got rifles, shotguns, fire katanas – pure fun.  
+Police system is poorly designed – they’re not smart and appear in weird situations (like during races). You shoot once and boom – 2 stars, even if everyone else is shooting too.  
+Overall, the gameplay is fun, but for such a big budget and world – I expected more polish and stability.
+
+Graphics and world – pure eye candy  
+The game is beautiful. Night City is one of the most visually stunning locations in gaming history. Maybe not as detailed as Los Santos, but still breathtaking – you’ll want to turn off the HUD and just cruise. Even the Nomad desert feels mysterious and alive.  
+The neon lights, holographic ads, tall buildings – it all feels alive, especially at night.
+
+Music – foundation of Night City’s atmosphere  
+The music is amazing. When you enter Arasaka tower and hear the violin – it immediately screams “power and mystery.” The music fits every moment perfectly.  
+Radio tracks are also great – especially “Afterlife” and “Fumes.”  
+I do wish there were more known real-world tracks, like in GTA V.
+
+Bugs & glitches? Still there.  
+At launch, the game was a mess – frozen NPCs, teleporting cars, crashes. It’s better now, but far from perfect.  
+In my 88 hours of playtime, I had 4 crashes in different places. Also, one time my last save disappeared – not sure if that’s common, but make backups just in case.
+
+Summary  
+Cyberpunk 2077 is a very good game – maybe not a flawless masterpiece, but absolutely worth your time. The story and world can fully absorb you. Gameplay isn’t perfect, but it’s still an action-packed shooter with a unique vibe.  
+Games like this take years to make – and Cyberpunk proves that CDPR can make magic.  
+I did almost everything in the game: all gigs, nearly all side missions, all tarot murals – and I still think it’s special. You won’t find another world quite like this.  
+Solid 9.5/10.
+"""
+
+Response:
+{
+  "liked": [
+    "emotional and gripping story",
+    "deep relationship between V and Johnny",
+    "phenomenal performance by Keanu Reeves",
+    "memorable and well-written characters",
+    "twists and multiple meaningful endings",
+    "huge world with tons of weapons and customization",
+    "beautiful visuals and world design",
+    "immersive Night City atmosphere",
+    "great soundtrack and fitting background music",
+    "fun and diverse weapons"
+  ],
+  "disliked": [
+    "story choices locked behind skill requirements",
+    "confusing and overwhelming cyberware system at first",
+    "poorly designed police system",
+    "too many glitches and crashes",
+    "occasional save file loss",
+    "lack of real-world popular music in radio",
+    "gameplay less polished than story and world"
+  ]
+}
+
+---
+Review:
+"""
+I was pleasantly surprised by Terraria. This 2D adventure/building/mining game is set in huge, randomly-generated worlds (hence all the Minecraft comparisons), but it stands on its own and contains quite a few new ideas to boot. It can be a little unforgiving early on, but your character (and his/her inventory) carries over to new worlds. I've only played for a little while, but it's addictive as hell and the multiplayer promises to compound that fun quite a bit. Pick this one up.
+"""
+
+Response:
+{
+  "liked": [
+    "huge randomly-generated worlds",
+    "new gameplay ideas",
+    "inventory and character persist across worlds",
+    "addictive gameplay",
+    "promising multiplayer"
+  ],
+  "disliked": [
+    "unforgiving early game"
+  ]
+}
+
+
+---
+
+NOW ANALYZE THIS REVIEW:
+"""
+{INSERT_REVIEW_HERE}
+"""
+</s>

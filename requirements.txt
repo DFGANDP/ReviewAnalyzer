@@ -1,0 +1,7 @@
+numpy
+pytest
+ollama
+tqdm
+pandas
+matplotlib
+seaborn
