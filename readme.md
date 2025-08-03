@@ -1,10 +1,10 @@
-# Steam Review Analyzer
+# Review Analyzer
 
-A comprehensive tool for analyzing Steam game reviews using AI-powered sentiment and aspect analysis. The application processes raw review data, extracts sentiment and aspects from individual sentences, labels aspects, and generates detailed analysis reports with visualizations.
+A comprehensive tool for analyzing game reviews using AI-powered sentiment and aspect analysis. The application processes raw review data, extracts sentiment and aspects from individual sentences, labels aspects, and generates detailed analysis reports with visualizations.
 
 ## Overview
 
-The Steam Review Analyzer is designed to process large volumes of Steam game reviews to extract meaningful insights. It performs three main operations:
+The Review Analyzer is designed to process large volumes of game reviews to extract meaningful insights. It performs three main operations:
 
 1. **Sentence Processing**: Extracts sentiment and aspects from individual review sentences
 2. **Aspect Labeling**: Labels and categorizes different aspects of the game (gameplay, graphics, story, etc.)
@@ -46,7 +46,7 @@ The Steam Review Analyzer is designed to process large volumes of Steam game rev
    ```
 
 4. **Prepare input data**
-   - Place your Steam review JSON file in the `review_analyzer/input/` directory
+   - Place your review JSON file in the `review_analyzer/input/` directory
    - The default expected file is `105600_20250209173825.json`
 
 ## Usage
