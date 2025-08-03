@@ -169,11 +169,3 @@ pytest tests/
 1. **Ollama not running**: Ensure Ollama is installed and the model is pulled
 2. **Memory issues**: Reduce `--workers` parameter for large datasets
 3. **Input file not found**: Verify the JSON file exists in the input directory
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
