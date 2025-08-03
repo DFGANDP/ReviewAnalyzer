@@ -30,7 +30,7 @@ The Steam Review Analyzer is designed to process large volumes of Steam game rev
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DFGANDP/ReviewAnalyzer.git
    cd SteamReviewAnalyzer
    ```
 
