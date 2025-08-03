@@ -1,0 +1,7 @@
+2025-08-02 21:24:31 [INFO] Start przetwarzania…
+2025-08-02 21:24:32 [INFO] Batch Sentence
+2025-08-02 21:24:32 [INFO] Start przetwarzania recenzji
+2025-08-02 21:24:32 [DEBUG] Parametry: language=english, workers=6, limit=10
+2025-08-02 21:24:32 [INFO] Wczytywanie recenzji z pliku: D:\Programowanie\SteamReviewAnalyzer\review_analyzer\input\105600_20250209173825.json
+2025-08-02 21:24:32 [DEBUG] Filtrowanie recenzji po języku: english
+2025-08-02 21:24:32 [INFO] Załadowano 477 recenzji (z 526 oryginalnych)

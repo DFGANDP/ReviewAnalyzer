@@ -43,3 +43,5 @@ class ReviewProcessingService:
             self.logger.info("Zapisano %d wyników", len(results))
         except Exception as e:
             self.logger.error("Błąd podczas zapisu wyników: %s", str(e), exc_info=True)
+
+        return results

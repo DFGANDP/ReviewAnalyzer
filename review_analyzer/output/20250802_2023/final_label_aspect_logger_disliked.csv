@@ -1,0 +1,704 @@
+appid;recommendationid;aspect;labels
+105600;3683085;challenging boss fights;Gameplay
+105600;3683085;challenging boss fights;Optimization
+105600;3732424;worse graphics;Optimization
+105600;3732424;sluggish controls;Gameplay
+105600;3732424;sluggish controls;Optimization
+105600;3732424;increased loading times;Gameplay
+105600;3732424;increased loading times;Optimization
+105600;1785546;clunky controls;Gameplay
+105600;1785546;unresponsive controls;Graphics
+105600;1785546;bland story;Story
+105600;1785546;flat characters;Story
+105600;1785546;frequent crashes;Bugs
+105600;1785546;frequent crashes;Updates
+105600;1785546;bugs;Bugs
+105600;1785546;bugs;Updates
+105600;1605013;ugly visuals;Graphics
+105600;1605013;poor color choices and ramps;Graphics
+105600;1605013;poor color choices and ramps;Optimization
+105600;1605013;unreadable pixels;Graphics
+105600;1605013;amateur sprites;Graphics
+105600;1605013;arcane mechanics;Gameplay
+105600;1605013;arcane mechanics;Innovation
+105600;1605013;boring combat;Gameplay
+105600;1605013;lack of character animations;Graphics
+105600;1605013;lack of character animations;Gameplay
+105600;1605013;no weight in actions;Gameplay
+105600;1605013;no weight in actions;Optimization
+105600;1605013;overuse of particle effects;Graphics
+105600;1605013;overuse of particle effects;Optimization
+105600;1605013;tedious crafting system;Gameplay
+105600;1926267;sluggish and unresponsive controls;Gameplay
+105600;1926267;sluggish and unresponsive controls;Optimization
+105600;1926267;frustrating combat;Gameplay
+105600;1926267;occasional frame rate drops;Optimization
+105600;3891650;sluggish and unresponsive controls;Gameplay
+105600;3891650;sluggish and unresponsive controls;Optimization
+105600;3891650;frustrating combat;Gameplay
+105600;3891650;significant frame rate drops in crowded areas;Optimization
+105600;3891650;significant frame rate drops in crowded areas;Gameplay
+105600;3891650;several bugs;Bugs
+105600;3891650;several bugs;Updates
+105600;4815759;clunky controls;Gameplay
+105600;4815759;clunky controls;Optimization
+105600;4815759;boring story;Story
+105600;4815759;outdated graphics;Graphics
+105600;4815759;outdated graphics;Optimization
+105600;4730461;clunky controls;Gameplay
+105600;4730461;clunky controls;Optimization
+105600;4730461;long loading times;Optimization
+105600;4730461;frequent crashes;Bugs
+105600;4730461;frequent crashes;Updates
+105600;1876654;boring start;Story
+105600;1188968;sluggish controls;Gameplay
+105600;1188968;sluggish controls;Optimization
+105600;1188968;confusing map design;Gameplay
+105600;1188968;confusing map design;Optimization
+105600;1188968;too many bugs;Bugs
+105600;1188968;too many bugs;Updates
+105600;4531179;worse graphics;Graphics
+105600;4531179;sluggish controls;Gameplay
+105600;4531179;sluggish controls;Optimization
+105600;4531179;more bugs;Bugs
+105600;4531179;more bugs;Updates
+105600;4531179;longer loading times;Optimization
+105600;3055409;sluggish and unresponsive controls;Gameplay
+105600;3055409;sluggish and unresponsive controls;Optimization
+105600;3055409;frustrating combat;Gameplay
+105600;3055409;occasional frame rate drops;Optimization
+105600;1996607;worse graphics;Graphics
+105600;1996607;sluggish controls;Gameplay
+105600;1996607;sluggish controls;Optimization
+105600;3820408;zombies;Other
+105600;2874447;often called a Minecraft clone;Other
+105600;4393073;prefers Starbound over this game;Other
+105600;4742792;sluggish controls;Gameplay
+105600;4742792;sluggish controls;Optimization
+105600;4742792;unresponsive combat;Gameplay
+105600;4742792;unresponsive combat;Optimization
+105600;4742792;confusing map design;Gameplay
+105600;4742792;confusing map design;Optimization
+105600;1251233;sluggish controls;Gameplay
+105600;1251233;sluggish controls;Optimization
+105600;1251233;confusing map design;Gameplay
+105600;1251233;confusing map design;Optimization
+105600;373782;clunky and unresponsive controls;Gameplay
+105600;373782;clunky and unresponsive controls;Optimization
+105600;373782;frequent crashes;Bugs
+105600;373782;frequent crashes;Updates
+105600;2465286;sluggish and unresponsive controls;Gameplay
+105600;2465286;sluggish and unresponsive controls;Optimization
+105600;2465286;repetitive story;Story
+105600;2465286;slow matchmaking;Multiplayer
+105600;2465286;slow matchmaking;Optimization
+105600;2465286;lack of variety in soundtrack;Music
+105600;1546425;sluggish and unresponsive controls;Gameplay
+105600;1546425;sluggish and unresponsive controls;Optimization
+105600;1546425;frustrating combat;Gameplay
+105600;1546425;occasional frame rate drops;Optimization
+105600;1035638;too similar to Minecraft;Other
+105600;2814099;sluggish controls;Gameplay
+105600;2814099;sluggish controls;Optimization
+105600;2814099;poor voice acting;Story
+105600;2814099;poor voice acting;Music
+105600;2814099;too many bugs;Bugs
+105600;2814099;too many bugs;Updates
+105600;2814099;repetitive quests;Story
+105600;4011801;gameplay not perfect;Gameplay
+105600;3404938;easy to die;Gameplay
+105600;4791283;boring and repetitive story missions;Story
+105600;4791283;slow game performance;Optimization
+105600;4791283;long loading times;Optimization
+105600;4791283;low frame rate during battles;Optimization
+105600;4791283;low frame rate during battles;Gameplay
+105600;4791283;frustrating open world exploration;Gameplay
+105600;4791283;frustrating open world exploration;Optimization
+105600;4791283;ugly new character models;Graphics
+105600;4791283;ugly new character models;Updates
+105600;2280005;sluggish controls;Gameplay
+105600;2280005;sluggish controls;Optimization
+105600;2280005;confusing map design;Gameplay
+105600;2280005;confusing map design;Optimization
+105600;2280005;muted sound effects;Music
+105600;2280005;muted sound effects;Optimization
+105600;2280005;repetitive side quests;Story
+105600;4814332;clunky and unresponsive controls;Gameplay
+105600;4814332;clunky and unresponsive controls;Optimization
+105600;4814332;frequent crashes;Bugs
+105600;4814332;frequent crashes;Updates
+105600;1148571;sluggish controls;Gameplay
+105600;1148571;sluggish controls;Optimization
+105600;1148571;unresponsive combat;Gameplay
+105600;1148571;unresponsive combat;Optimization
+105600;1148571;confusing map design;Gameplay
+105600;1148571;confusing map design;Optimization
+105600;2120069;frequent enemy spawning;Gameplay
+105600;2120069;performance issues;Optimization
+105600;2120069;bugs;Bugs
+105600;2120069;bugs;Updates
+105600;2628212;slower loading times;Optimization
+105600;2628212;broken matchmaking system;Multiplayer
+105600;2628212;broken matchmaking system;Bugs
+105600;1798097;loss of a whole dimension;Other
+105600;1705835;limited replayability initially;Gameplay
+105600;1705835;limited replayability initially;Other
+105600;1705835;little reason to restart after completing everything;Story
+105600;1705835;little reason to restart after completing everything;Gameplay
+105600;3990330;boss tiers block progress;Gameplay
+105600;3990330;boss tiers block progress;Bugs
+105600;3990330;no free creative building mode;Gameplay
+105600;3990330;no free creative building mode;Innovation
+105600;3990330;events interrupt construction;Gameplay
+105600;3990330;events interrupt construction;Story
+105600;3990330;enemy AI gets stuck behind walls;Bugs
+105600;3990330;enemy AI gets stuck behind walls;Gameplay
+105600;3091817;uninteresting endgame before 1.1 update;Story
+105600;3091817;uninteresting endgame before 1.1 update;Updates
+105600;3091817;short attention span in Hardmode;Gameplay
+105600;3091817;short attention span in Hardmode;Story
+105600;3091817;boring repetitive tasks post-game;Gameplay
+105600;3091817;boring repetitive tasks post-game;Story
+105600;3091817;lack of engaging endgame content initially;Story
+105600;3091817;lack of engaging endgame content initially;Updates
+105600;3091817;little new content in 1.3 update;Updates
+105600;3091817;prefers own music over game soundtrack;Music
+105600;3091817;prefers own music over game soundtrack;Other
+105600;4836356;lack of content;Other
+105600;4836356;boring story;Story
+105600;4836356;outdated graphics;Graphics
+105600;4836356;outdated graphics;Optimization
+105600;4836356;repetitive gameplay;Gameplay
+105600;4836356;clunky combat system;Gameplay
+105600;4836356;floaty controls;Gameplay
+105600;4836356;floaty controls;Optimization
+105600;4737167;clunky controls;Gameplay
+105600;4737167;clunky controls;Optimization
+105600;4737167;unresponsive combat;Gameplay
+105600;4737167;unresponsive combat;Optimization
+105600;4737167;frame rate drops during battles;Optimization
+105600;4737167;frame rate drops during battles;Gameplay
+105600;4737167;too many bugs and glitches;Bugs
+105600;714880;unforgiving early game;Gameplay
+105600;726743;unresponsive controls;Gameplay
+105600;726743;unresponsive controls;Optimization
+105600;726743;game crashes due to bugs;Bugs
+105600;726743;game crashes due to bugs;Updates
+105600;4834044;shallow story;Story
+105600;4834044;too many bugs;Bugs
+105600;4834044;too many bugs;Updates
+105600;4834044;clunky controls;Gameplay
+105600;4834044;clunky controls;Optimization
+105600;16878;clunky and unpolished gameplay;Gameplay
+105600;16878;clunky and unpolished gameplay;Optimization
+105600;16878;unresponsive controls;Gameplay
+105600;16878;unresponsive controls;Optimization
+105600;16878;frustrating combat;Gameplay
+105600;16878;short story with rushed ending;Story
+105600;16878;too many bugs;Bugs
+105600;16878;too many bugs;Updates
+105600;346772;grinding required;Gameplay
+105600;346772;grinding required;Story
+105600;1420503;sluggish and unresponsive controls;Gameplay
+105600;1420503;sluggish and unresponsive controls;Optimization
+105600;1420503;frustrating combat;Gameplay
+105600;1420503;significant frame rate drops;Optimization
+105600;1923270;clunky combat mechanics;Gameplay
+105600;1923270;poor enemy AI;Gameplay
+105600;1923270;poor enemy AI;Optimization
+105600;1923270;many bugs and glitches;Bugs
+105600;1923270;character teleportation bug;Bugs
+105600;1923270;character teleportation bug;Gameplay
+105600;4757117;bland characters;Story
+105600;4757117;clunky combat;Gameplay
+105600;4757117;frequent crashes and bugs;Bugs
+105600;4757117;frequent crashes and bugs;Updates
+105600;3355217;sluggish and unresponsive controls;Gameplay
+105600;3355217;sluggish and unresponsive controls;Optimization
+105600;3355217;frustrating combat;Gameplay
+105600;3355217;more bugs, especially with loading screens;Bugs
+105600;3355217;more bugs, especially with loading screens;Optimization
+105600;4690511;sluggish controls;Gameplay
+105600;4690511;sluggish controls;Optimization
+105600;4690511;confusing map design;Gameplay
+105600;4690511;confusing map design;Optimization
+105600;899717;longer loading times;Optimization
+105600;899717;terrible matchmaking;Multiplayer
+105600;899717;terrible matchmaking;Optimization
+105600;1771483;lack of content;Other
+105600;1323762;clunky controls;Gameplay
+105600;1323762;clunky controls;Optimization
+105600;1323762;unresponsive controls;Gameplay
+105600;1323762;unresponsive controls;Optimization
+105600;1323762;boring story missions;Story
+105600;1323762;rushed story missions;Story
+105600;1323762;rushed story missions;Optimization
+105600;996410;losing half money on death;Gameplay
+105600;996410;difficult bosses requiring good preparation;Gameplay
+105600;707964;lack of Steam features integration;Other
+105600;1791525;predictable plot twists;Story
+105600;1791525;poor enemy AI;Gameplay
+105600;1791525;poor enemy AI;Optimization
+105600;1791525;long loading times;Optimization
+105600;4803236;bland story;Story
+105600;4803236;flat characters;Story
+105600;4803236;clunky combat;Gameplay
+105600;4803236;outdated graphics;Graphics
+105600;4803236;outdated graphics;Optimization
+105600;4803236;empty world;Story
+105600;4803236;empty world;Other
+105600;4803236;forgettable music;Music
+105600;1599288;overpriced;Price
+105600;2065795;clunky combat mechanics;Gameplay
+105600;2065795;clunky combat mechanics;Optimization
+105600;2065795;unresponsive controls;Gameplay
+105600;2065795;unresponsive controls;Optimization
+105600;2065795;long loading times;Optimization
+105600;84851;sluggish controls;Gameplay
+105600;84851;sluggish controls;Optimization
+105600;84851;confusing map design;Gameplay
+105600;84851;confusing map design;Optimization
+105600;3751635;sluggish and unresponsive controls;Gameplay
+105600;3751635;sluggish and unresponsive controls;Optimization
+105600;3751635;frustrating combat;Gameplay
+105600;3751635;more bugs;Bugs
+105600;3751635;more bugs;Updates
+105600;4795256;clunky gameplay mechanics;Gameplay
+105600;4795256;clunky gameplay mechanics;Optimization
+105600;4795256;unresponsive controls;Gameplay
+105600;4795256;unresponsive controls;Optimization
+105600;4795256;long loading times;Optimization
+105600;4795256;empty feeling world sometimes;Story
+105600;4795256;empty feeling world sometimes;Other
+105600;4795256;annoying character voices;Music
+105600;4795256;annoying character voices;Other
+105600;1367137;clunky controls;Gameplay
+105600;1367137;clunky controls;Optimization
+105600;1367137;long loading times;Optimization
+105600;2849953;clunky controls;Gameplay
+105600;2849953;clunky controls;Optimization
+105600;2849953;long loading screens;Optimization
+105600;2849953;low frame rate in battles;Optimization
+105600;2849953;low frame rate in battles;Gameplay
+105600;627610;clunky controls;Gameplay
+105600;627610;clunky controls;Optimization
+105600;627610;unresponsive controls;Gameplay
+105600;627610;unresponsive controls;Optimization
+105600;627610;bland story;Story
+105600;627610;frequent bugs and glitches;Bugs
+105600;627610;frequent bugs and glitches;Updates
+105600;1278986;confusing axe controls;Gameplay
+105600;1278986;confusing axe controls;Optimization
+105600;4537324;clunky controls;Gameplay
+105600;4537324;clunky controls;Optimization
+105600;4537324;unresponsive controls;Gameplay
+105600;4537324;unresponsive controls;Optimization
+105600;4537324;bland story;Story
+105600;4537324;flat characters;Story
+105600;947847;clunky controls;Gameplay
+105600;947847;clunky controls;Optimization
+105600;947847;outdated graphics;Graphics
+105600;947847;outdated graphics;Optimization
+105600;947847;frequent bugs and glitches;Bugs
+105600;947847;frequent bugs and glitches;Updates
+105600;947847;unpolished feel;Other
+105600;947847;bland sound effects;Music
+105600;825275;2D graphics may become stale over time;Graphics
+105600;825275;2D graphics may become stale over time;Other
+105600;860104;frustrating hardmode;Gameplay
+105600;860104;frustrating hardmode;Other
+105600;860104;frequent deaths in hardmode;Gameplay
+105600;860104;difficulty farming items;Gameplay
+105600;860104;struggling with mechanical bosses;Gameplay
+105600;233729;clunky combat system;Gameplay
+105600;233729;poor enemy AI;Gameplay
+105600;233729;frequent loading times;Optimization
+105600;233729;bugs and glitches;Bugs
+105600;4799761;clunky and unresponsive controls;Gameplay
+105600;4799761;clunky and unresponsive controls;Optimization
+105600;4799761;long loading times;Optimization
+105600;4072648;instant-kill underground traps;Gameplay
+105600;4072648;instant-kill underground traps;Innovation
+105600;4072648;developer trolling players with worse seeds;Other
+105600;3858307;becomes boring after long playtime;Gameplay
+105600;3858307;becomes boring after long playtime;Other
+105600;3571212;overwhelming at first for new players;Gameplay
+105600;3571212;overwhelming at first for new players;Optimization
+105600;3571212;laggy enemies online;Multiplayer
+105600;3571212;laggy enemies online;Optimization
+105600;3571212;long load times;Optimization
+105600;2835520;too hard for beginners;Gameplay
+105600;2835520;clunky and unresponsive controls;Gameplay
+105600;2835520;clunky and unresponsive controls;Optimization
+105600;2835520;steep learning curve;Gameplay
+105600;2835520;inconsistent matchmaking;Multiplayer
+105600;2835520;inconsistent matchmaking;Optimization
+105600;1320444;stolen sprites;Graphics
+105600;1320444;stolen sprites;Innovation
+105600;921161;clunky controls;Gameplay
+105600;921161;clunky controls;Optimization
+105600;921161;long loading times;Optimization
+105600;921161;frequent crashes;Bugs
+105600;921161;frequent crashes;Updates
+105600;2281096;underwhelming graphics;Graphics
+105600;2281096;bland story;Story
+105600;2281096;clunky controls;Gameplay
+105600;2281096;clunky controls;Optimization
+105600;2281096;frequent crashes and bugs;Bugs
+105600;2281096;frequent crashes and bugs;Updates
+105600;914344;dangerous Underworld locations;Story
+105600;914344;dangerous Underworld locations;Gameplay
+105600;2298011;game is not in 3D;Graphics
+105600;2298011;game is not in 3D;Innovation
+105600;1050161;difficult early game;Gameplay
+105600;1641989;needs frequent updates;Updates
+105600;659402;steep learning curve;Gameplay
+105600;659402;slow initial gameplay;Gameplay
+105600;659402;slow initial gameplay;Optimization
+105600;4508873;clunky controls;Gameplay
+105600;4508873;clunky controls;Optimization
+105600;4508873;long loading times;Optimization
+105600;2118980;comparisons to Minecraft;Other
+105600;1166250;clunky controls;Gameplay
+105600;1166250;clunky controls;Optimization
+105600;1166250;unresponsive controls;Gameplay
+105600;1166250;unresponsive controls;Optimization
+105600;1166250;frustrating combat;Gameplay
+105600;1166250;boring story content;Story
+105600;1166250;rushed story content;Story
+105600;1166250;rushed story content;Updates
+105600;297766;high difficulty curve early on;Gameplay
+105600;297766;too many enemies at start;Gameplay
+105600;297766;too many enemies at start;Optimization
+105600;297766;confusing merchant mechanics;Gameplay
+105600;297766;less user-friendly than Minecraft;Gameplay
+105600;297766;less user-friendly than Minecraft;Innovation
+105600;4582333;clunky gameplay mechanics;Gameplay
+105600;4582333;clunky gameplay mechanics;Optimization
+105600;4582333;sluggish controls;Gameplay
+105600;4582333;sluggish controls;Optimization
+105600;4582333;poor AI for allies and enemies;Gameplay
+105600;4582333;poor AI for allies and enemies;Optimization
+105600;4582333;frequent crashes and bugs;Bugs
+105600;4582333;frequent crashes and bugs;Updates
+105600;2868978;confusing gameplay;Gameplay
+105600;4800016;clunky controls;Gameplay
+105600;4800016;clunky controls;Optimization
+105600;4800016;unresponsive controls;Gameplay
+105600;4800016;unresponsive controls;Optimization
+105600;4800016;bland story;Story
+105600;4800016;dull characters;Story
+105600;4800016;dull characters;Other
+105600;4800016;frequent bugs and glitches;Bugs
+105600;4800016;frequent bugs and glitches;Updates
+105600;2827313;sluggish and unresponsive controls;Gameplay
+105600;2827313;sluggish and unresponsive controls;Optimization
+105600;2827313;frustrating combat;Gameplay
+105600;2827313;frame rate drops during intense scenes;Optimization
+105600;2827313;frame rate drops during intense scenes;Gameplay
+105600;1820357;monotonous at times;Other
+105600;1820357;less builder-friendly than Minecraft;Other
+105600;82908;running out of bosses;Story
+105600;82908;running out of bosses;Gameplay
+105600;82908;lack of better gear;Gameplay
+105600;82908;lack of better gear;Story
+105600;2054448;boring new mobs;Story
+105600;2054448;boring new mobs;Gameplay
+105600;2054448;complicated crafting system;Gameplay
+105600;2054448;performance issues;Optimization
+105600;1293941;tedious solo gameplay;Gameplay
+105600;4814469;clunky controls;Gameplay
+105600;4814469;clunky controls;Optimization
+105600;4814469;frequent crashes and bugs;Bugs
+105600;4814469;frequent crashes and bugs;Updates
+105600;564683;grindy gameplay;Gameplay
+105600;564683;grindy gameplay;Other
+105600;3212232;clunky combat system;Gameplay
+105600;3212232;frequent loading screens;Optimization
+105600;3212232;poor voice acting;Story
+105600;3212232;poor voice acting;Music
+105600;191809;worse graphics;Graphics
+105600;191809;sluggish controls;Gameplay
+105600;191809;sluggish controls;Optimization
+105600;191809;increased number of bugs;Bugs
+105600;191809;increased number of bugs;Updates
+105600;4827461;sluggish and unresponsive controls;Gameplay
+105600;4827461;sluggish and unresponsive controls;Optimization
+105600;4827461;frustrating combat;Gameplay
+105600;4827461;frame rate drops during intense scenes;Optimization
+105600;4827461;frame rate drops during intense scenes;Gameplay
+105600;4801866;difficult to find online servers;Multiplayer
+105600;4801866;difficult to find online servers;Optimization
+105600;1102083;sluggish and unresponsive controls;Gameplay
+105600;1102083;sluggish and unresponsive controls;Optimization
+105600;1102083;significant frame rate drops during intense scenes;Optimization
+105600;1102083;significant frame rate drops during intense scenes;Gameplay
+105600;1102083;poor optimization;Optimization
+105600;671610;sluggish and unresponsive controls;Gameplay
+105600;671610;sluggish and unresponsive controls;Optimization
+105600;671610;confusing story at times;Story
+105600;671610;too many bugs in multiplayer;Bugs
+105600;671610;too many bugs in multiplayer;Multiplayer
+105600;3296124;sluggish controls;Gameplay
+105600;3296124;sluggish controls;Optimization
+105600;3296124;confusing map design;Gameplay
+105600;3296124;confusing map design;Optimization
+105600;4453618;sluggish and unresponsive controls;Gameplay
+105600;4453618;sluggish and unresponsive controls;Optimization
+105600;4453618;frustrating combat;Gameplay
+105600;4453618;occasional frame rate drops;Optimization
+105600;1109639;boring gameplay;Gameplay
+105600;1109639;annoying gameplay;Gameplay
+105600;940254;bland characters;Story
+105600;940254;bland characters;Other
+105600;940254;clunky combat;Gameplay
+105600;940254;some obscure puzzles;Gameplay
+105600;940254;some obscure puzzles;Innovation
+105600;940254;finicky camera;Gameplay
+105600;940254;finicky camera;Optimization
+105600;2930285;frequent crashes;Bugs
+105600;2930285;frequent crashes;Updates
+105600;2930285;boring repetitive content;Gameplay
+105600;2930285;boring repetitive content;Story
+105600;2930285;rushed shallow story missions;Story
+105600;2930285;rushed shallow story missions;Optimization
+105600;2930285;worse graphics;Graphics
+105600;1228279;torches decrease luck;Gameplay
+105600;1228279;torches decrease luck;Innovation
+105600;1228279;FPS drop on weaker computers;Optimization
+105600;1228279;FPS drop on weaker computers;Gameplay
+105600;1228279;nerfed fishing and weapons;Gameplay
+105600;1228279;nerfed fishing and weapons;Updates
+105600;1228279;expensive housing due to NPC preferences;Gameplay
+105600;1228279;expensive housing due to NPC preferences;Story
+105600;1228279;corruption ruins jungles;Story
+105600;1228279;corruption ruins jungles;Graphics
+105600;1228279;new mounts locked to master mode;Gameplay
+105600;1228279;new mounts locked to master mode;Story
+105600;1073750;sluggish controls;Gameplay
+105600;1073750;sluggish controls;Optimization
+105600;1073750;small map;Gameplay
+105600;1073750;small map;Other
+105600;1073750;limited character customization;Gameplay
+105600;1073750;limited character customization;Innovation
+105600;1073750;unbalanced gameplay;Gameplay
+105600;1073750;unbalanced gameplay;Optimization
+105600;1073750;too many bugs;Bugs
+105600;1073750;too many bugs;Updates
+105600;1073750;bugs in multiplayer;Bugs
+105600;1073750;bugs in multiplayer;Multiplayer
+105600;337342;2D Minecraft;Innovation
+105600;337342;2D Minecraft;Graphics
+105600;2368440;multiplayer has kinks;Multiplayer
+105600;2368440;multiplayer has kinks;Bugs
+105600;2368440;game is ripe for griefing in multiplayer;Multiplayer
+105600;2368440;game is ripe for griefing in multiplayer;Other
+105600;1692962;flat characters;Story
+105600;1692962;poor enemy AI;Gameplay
+105600;1692962;poor enemy AI;Optimization
+105600;1692962;frequent crashes and bugs;Bugs
+105600;1692962;frequent crashes and bugs;Updates
+105600;2341529;sluggish controls;Gameplay
+105600;2341529;sluggish controls;Optimization
+105600;2341529;confusing map design;Gameplay
+105600;2341529;confusing map design;Optimization
+105600;2341529;long loading times;Optimization
+105600;4117464;useless in-game guide;Gameplay
+105600;4117464;useless in-game guide;Story
+105600;4823101;slower gameplay;Gameplay
+105600;4823101;slower gameplay;Optimization
+105600;4823101;boring new quests;Story
+105600;4823101;boring new quests;Updates
+105600;4823101;occasional crashes;Bugs
+105600;4823101;occasional crashes;Updates
+105600;106366;sluggish controls;Gameplay
+105600;106366;sluggish controls;Optimization
+105600;106366;confusing map design;Gameplay
+105600;106366;confusing map design;Optimization
+105600;2390739;difficult;Gameplay
+105600;2712388;clunky controls;Gameplay
+105600;2712388;clunky controls;Optimization
+105600;2712388;performance issues;Optimization
+105600;2712388;occasional bugs;Bugs
+105600;2712388;occasional bugs;Updates
+105600;4811676;sluggish controls;Gameplay
+105600;4811676;sluggish controls;Optimization
+105600;4811676;confusing map design;Gameplay
+105600;4811676;confusing map design;Optimization
+105600;2638345;sluggish controls;Gameplay
+105600;2638345;sluggish controls;Optimization
+105600;2638345;frustrating combat;Gameplay
+105600;2638345;confusing map design;Gameplay
+105600;2638345;confusing map design;Optimization
+105600;4406793;slow start;Story
+105600;4406793;slow start;Gameplay
+105600;1651295;cluttered gameplay;Gameplay
+105600;1651295;cluttered gameplay;Optimization
+105600;4122771;clunky gameplay mechanics;Gameplay
+105600;4122771;clunky gameplay mechanics;Optimization
+105600;4122771;unresponsive controls;Gameplay
+105600;4122771;unresponsive controls;Optimization
+105600;4122771;poor pacing in the story;Story
+105600;4122771;finicky controls;Gameplay
+105600;4122771;finicky controls;Optimization
+105600;2418611;clunky combat mechanics;Gameplay
+105600;2418611;long loading times;Optimization
+105600;4667319;difficulty for new players;Gameplay
+105600;4667319;steep learning curve;Gameplay
+105600;4667319;feeling lost in the game;Gameplay
+105600;4667319;feeling lost in the game;Story
+105600;4667319;clunky console controls;Gameplay
+105600;4667319;clunky console controls;Optimization
+105600;4667319;performance issues;Optimization
+105600;4797958;long loading times;Optimization
+105600;4797958;clunky controls;Gameplay
+105600;4797958;clunky controls;Optimization
+105600;4797958;performance issues;Optimization
+105600;1743094;potential multiplayer imbalance due to persistent items;Multiplayer
+105600;1743094;potential multiplayer imbalance due to persistent items;Gameplay
+105600;399433;non-functional international keyboard keys;Bugs
+105600;399433;non-functional international keyboard keys;Optimization
+105600;399433;cannot exit chat with ESC key;Bugs
+105600;399433;cannot exit chat with ESC key;Optimization
+105600;399433;limited server management options;Multiplayer
+105600;399433;limited server management options;Optimization
+105600;4806324;sluggish controls;Gameplay
+105600;4806324;sluggish controls;Optimization
+105600;4806324;confusing map design;Gameplay
+105600;4806324;confusing map design;Optimization
+105600;1367705;enemies spawn even in the light;Gameplay
+105600;1367705;enemies spawn even in the light;Bugs
+105600;1367705;constant danger from enemies and hazards;Gameplay
+105600;1367705;limited building compared to Minecraft;Gameplay
+105600;1367705;limited building compared to Minecraft;Innovation
+105600;4809893;sluggish and unresponsive controls;Gameplay
+105600;4809893;sluggish and unresponsive controls;Optimization
+105600;4809893;occasional frame rate drops;Optimization
+105600;4809893;frustrating combat;Gameplay
+105600;1956802;2D sidescrolling gameplay;Gameplay
+105600;1188651;blurry graphics;Graphics
+105600;1188651;sluggish controls;Gameplay
+105600;1188651;sluggish controls;Optimization
+105600;1188651;game freezes;Bugs
+105600;1188651;game freezes;Optimization
+105600;2090914;constant crashes;Bugs
+105600;2090914;constant crashes;Updates
+105600;2090914;awful new character models;Graphics
+105600;2090914;awful new character models;Updates
+105600;2090914;terrible sound effects;Music
+105600;3431553;blocked from Terraria Facebook page;Other
+105600;3431553;developers ignoring issue;Updates
+105600;3431553;developers ignoring issue;Bugs
+105600;2847403;downgraded graphics;Graphics
+105600;2847403;downgraded graphics;Updates
+105600;2847403;sluggish controls;Gameplay
+105600;2847403;sluggish controls;Optimization
+105600;2847403;occasional game crashes;Bugs
+105600;2847403;occasional game crashes;Updates
+105600;1001395;lack of content;Other
+105600;1001395;shallow story;Story
+105600;1001395;one-dimensional characters;Story
+105600;1001395;one-dimensional characters;Other
+105600;1001395;finicky camera;Gameplay
+105600;1001395;finicky camera;Optimization
+105600;3665946;sluggish controls;Gameplay
+105600;3665946;sluggish controls;Optimization
+105600;3665946;long loading times;Optimization
+105600;3665946;repetitive side quests;Story
+105600;4701530;compared to Minecraft;Other
+105600;246531;lack of content;Other
+105600;246531;shallow story;Story
+105600;246531;bland characters;Story
+105600;246531;bland characters;Other
+105600;246531;frequent crashes and bugs;Bugs
+105600;246531;frequent crashes and bugs;Updates
+105600;1091837;rough around the edges;Other
+105600;456325;shallow story;Story
+105600;456325;clunky controls;Gameplay
+105600;456325;clunky controls;Optimization
+105600;456325;long loading screens;Optimization
+105600;4794275;clunky combat mechanics;Gameplay
+105600;4794275;unresponsive controls;Gameplay
+105600;4794275;unresponsive controls;Optimization
+105600;4794275;long loading times;Optimization
+105600;985019;boring and predictable story;Story
+105600;985019;one-dimensional characters;Story
+105600;985019;sluggish combat;Gameplay
+105600;985019;sluggish combat;Optimization
+105600;985019;awkward camera angles;Gameplay
+105600;985019;awkward camera angles;Optimization
+105600;1605531;not a real game;Other
+105600;1279695;safer above ground than below;Gameplay
+105600;1279695;safer above ground than below;Story
+105600;1895747;worse graphics;Graphics
+105600;1895747;sluggish controls;Gameplay
+105600;1895747;sluggish controls;Optimization
+105600;546235;performance issues with many enemies;Optimization
+105600;546235;performance issues with many enemies;Gameplay
+105600;546235;clunky controls;Gameplay
+105600;546235;clunky controls;Optimization
+105600;2356153;overrated game;Other
+105600;3335433;comparison to Minecraft;Other
+105600;1573554;slow initial learning curve;Gameplay
+105600;1573554;slow initial learning curve;Optimization
+105600;1840926;clunky and unresponsive controls;Gameplay
+105600;1840926;clunky and unresponsive controls;Optimization
+105600;1840926;rushed story parts;Story
+105600;1840926;rushed story parts;Optimization
+105600;1840926;poor enemy AI;Gameplay
+105600;1840926;poor enemy AI;Optimization
+105600;1471762;clunky combat mechanics;Gameplay
+105600;1471762;poor enemy AI;Gameplay
+105600;1471762;poor enemy AI;Optimization
+105600;1471762;long loading times;Optimization
+105600;1361436;rushed parts in the story;Story
+105600;1361436;frustrating camera angles;Gameplay
+105600;1361436;frustrating camera angles;Optimization
+105600;3967832;lost initial appeal over time;Other
+105600;3967832;repetitive gameplay when played too long;Gameplay
+105600;3967832;repetitive gameplay when played too long;Other
+105600;915485;less focus on building compared to Minecraft;Other
+105600;2871640;bland story;Story
+105600;2871640;one-dimensional characters;Story
+105600;2871640;clunky combat;Gameplay
+105600;2871640;outdated graphics;Graphics
+105600;2871640;outdated graphics;Optimization
+105600;2871640;empty world;Story
+105600;2871640;empty world;Gameplay
+105600;214004;sluggish and unresponsive controls;Gameplay
+105600;214004;sluggish and unresponsive controls;Optimization
+105600;214004;frustrating combat;Gameplay
+105600;214004;occasional frame rate drops;Optimization
+105600;1019177;limited reason to build beyond NPC housing;Gameplay
+105600;1019177;limited reason to build beyond NPC housing;Story
+105600;46512;accidental flooding of kingdom;Story
+105600;46512;accidental flooding of kingdom;Bugs
+105600;1215776;bland characters;Story
+105600;1215776;bland characters;Other
+105600;1215776;clunky combat;Gameplay
+105600;1215776;terrible matchmaking system;Multiplayer
+105600;1215776;terrible matchmaking system;Gameplay
+105600;1215776;too many bugs and glitches;Bugs
+105600;1215776;too many bugs and glitches;Updates
+105600;527668;lag issues due to net coding;Multiplayer
+105600;527668;lag issues due to net coding;Optimization
+105600;1945909;clunky combat system;Gameplay
+105600;1945909;clunky combat system;Optimization
+105600;1945909;unresponsive controls;Gameplay
+105600;1945909;unresponsive controls;Optimization
+105600;1945909;vague puzzles;Gameplay
+105600;1429803;monsters attacking at night;Gameplay
+105600;1429803;monsters attacking at night;Story
+105600;907799;short-term enjoyment;Other
+105600;2137916;clunky controls;Gameplay
+105600;2137916;clunky controls;Optimization
+105600;2137916;game is too short;Other
+105600;4502781;bland uninspired map;Gameplay
+105600;4502781;bland uninspired map;Story
+105600;4502781;tedious exploration;Gameplay
+105600;4502781;easy enemies;Gameplay
+105600;4502781;boring combat;Gameplay
+105600;160954;developer is unpleasant;Other
+105600;3029327;poor gameplay;Gameplay
+105600;3029327;many bugs;Bugs
+105600;3029327;bad performance;Optimization

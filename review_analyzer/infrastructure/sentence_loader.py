@@ -27,8 +27,12 @@ class SentenceLoader:
         rows = self._load_jsonl_lines()
         df = pd.DataFrame(rows)
 
-        # Główna tabela recenzji
-        reviews_df = df[["appid", "recommendationid", "original_review", "error"]].copy()
+        required_cols = ["appid", "recommendationid", "original_review"]
+        optional_cols = ["error"]
+
+        all_cols = required_cols + [col for col in optional_cols if col in df.columns]
+        reviews_df = df[all_cols].copy()
+
 
         # Tabela liked
         liked_df = (

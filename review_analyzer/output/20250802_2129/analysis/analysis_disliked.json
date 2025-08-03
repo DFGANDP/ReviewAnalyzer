@@ -1,0 +1,49 @@
+{
+  "total_aspects": 6,
+  "unique_aspects": 4,
+  "label_distribution": {
+    "Gameplay": 2,
+    "Optimization": 1,
+    "Bugs": 1,
+    "Updates": 1,
+    "Graphics": 1
+  },
+  "top_aspects_overall": {
+    "challenging boss fights": 2,
+    "worse graphics": 2,
+    "sluggish controls": 1,
+    "more bugs": 1
+  },
+  "top_aspects_per_label": {
+    "Gameplay": {
+      "challenging boss fights": 1,
+      "sluggish controls": 1
+    },
+    "Optimization": {
+      "challenging boss fights": 1
+    },
+    "Bugs": {
+      "worse graphics": 1
+    },
+    "Updates": {
+      "worse graphics": 1
+    },
+    "Graphics": {
+      "more bugs": 1
+    }
+  },
+  "multi_label_aspects_count": 2,
+  "multi_label_aspects_sample": {
+    "challenging boss fights": [
+      "Gameplay",
+      "Optimization"
+    ],
+    "worse graphics": [
+      "Updates",
+      "Bugs"
+    ]
+  },
+  "avg_labels_per_review": 3.0,
+  "max_labels_per_review": 4,
+  "min_labels_per_review": 2
+}
